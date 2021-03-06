@@ -2,7 +2,7 @@
     language: bash
     sudo: required
     install:
-      - sudo apt install clang libunwind-dev
+      - sudo apt install clang libunwind8-dev
       - curl -s "https://get.sdkman.io" | bash
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
