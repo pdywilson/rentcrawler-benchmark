@@ -2,6 +2,7 @@
     language: bash
     sudo: required
     install:
+      - sudo apt-get update
       - sudo apt install clang libunwind8-dev
       - curl -s "https://get.sdkman.io" | bash
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
