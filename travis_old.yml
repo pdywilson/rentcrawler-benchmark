@@ -2,6 +2,9 @@
     language: bash
     sudo: required
     install:
+      - sudo apt-get update
+      - sudo find /usr -name "*libunwind*" -delete
+      - sudo apt install libunwind8-dev clang
       - curl -s "https://get.sdkman.io" | bash
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
