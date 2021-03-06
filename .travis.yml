@@ -14,4 +14,4 @@
       - cd cpp && g++ -o hello hello.cpp && chmod u+x run.sh && time bash run.sh
       - cd ../java && javac hello.java && time java hello
       - cd ../scalaraw && scalac hello.scala && time scala hello
-      - cd ../scalanative && sbt run && time bash run.sh
+      #- cd ../scalanative && sbt run && time bash run.sh
