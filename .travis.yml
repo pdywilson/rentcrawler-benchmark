@@ -2,8 +2,13 @@
     language: bash
     sudo: required
     install:
-      - sudo apt-get install scala
+      - sudo apt install clang libunwind-dev
+      - curl -s "https://get.sdkman.io" | bash
+      - source "$HOME/.sdkman/bin/sdkman-init.sh"
+      - sdk install scala 2.13.4
+      - sdk install sbt
     script: 
       - cd cpp && g++ -o hello hello.cpp && chmod u+x run.sh && time bash run.sh
       - cd ../java && javac hello.java && time java hello
       - cd ../scalaraw && scalac hello.scala && time scala hello
+      - cd ../scalanative && sbt run && time bash target/scala-2.13/scalanative-out
