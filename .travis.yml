@@ -3,7 +3,10 @@
     sudo: required
     install:
       - sudo apt-get update
-      - sudo apt install clang libunwind8-dev
+      - sudo find /usr -name "*libunwind*" -delete
+      - sudo apt install libgc-dev libunwind8-dev
+      - export PATH=/usr/local/clang-5.0.0/bin:$PATH
+      - export CXX=clang++
       - curl -s "https://get.sdkman.io" | bash
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
