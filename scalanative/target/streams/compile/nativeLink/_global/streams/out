@@ -1,81 +1,81 @@
-[0m[[0m[0minfo[0m] [0m[0mLinking (1775 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mLinking (1924 ms)[0m
 [0m[[0m[0minfo[0m] [0m[0mDiscovered 971 classes and 7868 methods[0m
-[0m[[0m[0minfo[0m] [0m[0mOptimizing (debug mode) (5545 ms)[0m
-[0m[[0m[0minfo[0m] [0m[0mGenerating intermediate code (3186 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mOptimizing (debug mode) (5160 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating intermediate code (3815 ms)[0m
 [0m[[0m[0minfo[0m] [0m[0mProduced 8 files[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/5.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/5.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/4.ll[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/4.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/1.ll[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/3.ll[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
 [0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/3.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/2.ll[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/2.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
-[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/1.ll[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/7.ll[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-c[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/1.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/0.ll[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-o[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-c[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/0.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/7.ll.o[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/6.ll[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/3.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/2.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/2.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/6.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/7.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/7.ll.o[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling to native code (615 ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/5.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/5.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/4.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/4.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/1.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling to native code (573 ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning[0m
 [0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-rdynamic[0m
@@ -155,5 +155,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/pdywilson/my/projects/rentcrawler-benchmark/scalanative/target/scala-2.13/native/0.ll.o[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-lpthread[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-ldl[0m
-[0m[[0m[0minfo[0m] [0m[0mLinking native code (immix gc, none lto) (138 ms)[0m
-[0m[[0m[0minfo[0m] [0m[0mTotal (11456 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mLinking native code (immix gc, none lto) (144 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal (11797 ms)[0m
