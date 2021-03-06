@@ -6,7 +6,7 @@
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
       - sdk install sbt
-      - curl --proto '=https' --tlsv1.2 - sSf https://sh.rustup.rs | sh -s -- -y
+      - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y      
       - export PATH="$HOME/.cargo/bin:$PATH"
     script: 
       - cd cpp && g++ -o hello hello.cpp && chmod u+x run.sh && time bash run.sh
