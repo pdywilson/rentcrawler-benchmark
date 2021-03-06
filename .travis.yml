@@ -2,3 +2,4 @@ language: bash
 sudo: required
 script: 
     - cd cpp && g++ -o hello hello.cpp && chmod u+x run.sh && time bash run.sh
+    - cd ../java && javac hello.java && time java hello
