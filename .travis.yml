@@ -9,7 +9,8 @@
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
       - sdk install sbt
-      - curl https://sh.rustup.rs -sSf | sh -s -- -y
+      - curl --proto '=https' --tlsv1.2 - sSf https://sh.rustup.rs | sh -s -- -y
+      - rustup
     script: 
       - cd cpp && g++ -o hello hello.cpp && chmod u+x run.sh && time bash run.sh
       - cd ../java && javac hello.java && time java hello
