@@ -1,4 +1,4 @@
 language: bash
 sudo: required
 script: 
-    - chmod u+x bash cpp/run.sh
+    - chmod u+x cpp/run.sh && bash cpp/run.sh
