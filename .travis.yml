@@ -5,6 +5,7 @@
       - sudo apt-get update
       - sudo find /usr -name "*libunwind*" -delete
       - sudo apt install libgc-dev libunwind8-dev clang
+      - echo clang --version
       - curl -s "https://get.sdkman.io" | bash
       - source "$HOME/.sdkman/bin/sdkman-init.sh"
       - sdk install scala 2.13.4
